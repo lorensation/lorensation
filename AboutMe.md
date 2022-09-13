@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lorensation
+- 👀 I’m interested in Java, Python, HTML, CSS, JavaScript, Angular, NodeJS, GSC, Bash, etc
+- 🌱 I’m currently learning Java, Python and CSS.
+- 💞️ I’m looking to collaborate on whatever I can with my little knowledge and experience.
+- 📫 You can reach me via Discord: TitoLoren#8811
