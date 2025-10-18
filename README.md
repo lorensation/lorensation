@@ -71,14 +71,13 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
 
 ## 🌟 Featured Projects
 
-> A selection of personal & professional AI systems I’ve built or contributed to.  
-> *(links will be added soon)*
+> A selection of personal & professional projects I’ve built or contributed to.  
 
 | 🚀 Project | 🧩 Description | 🧠 Tech Stack |
 |-------------|----------------|---------------|
-| [🔗 **Project 1**]() | GenAI-powered microservice with custom RAG pipeline | FastAPI · LangChain · GCP |
-| [🔗 **Project 2**]() | AI dashboard for analytics & visualization | React · TailwindCSS · Flask |
-| [🔗 **Project 3**]() | Conversational Agent using LangGraph and HuggingFace | Python · LangGraph · MongoDB |
+| [🔗 **AI Engineer Learning Course - Scrimba**](https://github.com/lorensation/ai-engineer-scrimba-course) | AI-powered mini apps to learn about NLP, Computer Vision, OSS Models... | FastAPI · Node · HFace |
+| [🔗 **ML Search Algorithms Lab**](https://github.com/gisi-ai/search-lab-lorensation) | Machine Learning Lab to learn about data modelling, search algorithms and heuristics | Python · ML · Algorithms/Heuristic |
+| [🔗 **Peña Madridista Lorenzo Sanz Website**](https://github.com/lorensation/penya-madridista) | Web App with CMS + CRM for a football fan club | NextJS · TypeScript · TailwindCSS · Supabase · Stripe |
 
 ---
 
@@ -86,6 +85,16 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lorensation&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🧮 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorensation&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
+    alt="Top Languages" 
+    height="180px"
+  />
 </p>
 
 ---
