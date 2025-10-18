@@ -93,7 +93,7 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lorenzosanztrucharte/" target="_blank">
+  <a href="https://www.linkedin.com/in/lorenzo-sanz-trucharte-534467121/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:lsanztrucharte@gmail.com">
