@@ -121,3 +121,5 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
   <img src="https://img.shields.io/badge/Made_with_❤️_by_Lorenzo_Sanz_Trucharte-000000?style=flat-square"/>
 </p>
 
+---
+
