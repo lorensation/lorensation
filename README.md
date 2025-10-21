@@ -76,6 +76,7 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
 | 🚀 Project | 🧩 Description | 🧠 Tech Stack |
 |-------------|----------------|---------------|
 | [🔗 **TextEmbedding + Small RAG Agent Demo**](https://github.com/lorensation/my-first-vector-db) | Web demo for text embeddings + Vector DB storing + Small RAG Agent | JavaScript · OpenAI API · LangChain · Supabase VectorDB |
+| [🔗 **ReAct Weather Agent**](https://github.com/lorensation/ai-weather-agent) | Web demo for a small ReAct Agent using location + weather | FastAPI (Python) · OpenAI API · ReAct Prompting · Weather API |
 | [🔗 **AI Engineer Learning Course - Scrimba**](https://github.com/lorensation/ai-engineer-scrimba-course) | AI-powered mini apps to learn about NLP, Computer Vision, OSS Models... | FastAPI · Node · HFace |
 | [🔗 **ML Search Algorithms Lab**](https://github.com/gisi-ai/search-lab-lorensation) | Machine Learning Lab to learn about data modelling, search algorithms and heuristics | Python · ML · Algorithms/Heuristic |
 | [🔗 **Peña Madridista Lorenzo Sanz Website**](https://github.com/lorensation/penya-madridista) | Web App with CMS + CRM for a football fan club | NextJS · TypeScript · TailwindCSS · Supabase · Stripe |
