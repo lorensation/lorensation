@@ -2,7 +2,7 @@
 <!-- 🌌 README — Lorenzo Sanz Trucharte -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#3B82F6;">Lorenzo Sanz Trucharte</span></h1>
-<h3 align="center">💡 AI Engineer | Building the next generation of intelligent systems</h3>
+<h3 align="center">💡 AI Engineer | GenAI Engineer</h3>
 
 <p align="center">
 🚀 <b>LLM Expert (in progress)</b> · 🧠 <b>AI Agents</b> · 🤖 <b>GenAI Solutions</b><br>
