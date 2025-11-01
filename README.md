@@ -5,7 +5,7 @@
 <h3 align="center">💡 AI Engineer | GenAI Engineer</h3>
 
 <p align="center">
-🚀 <b>LLM Expert (in progress)</b> · 🧠 <b>AI Agents</b> · 🤖 <b>GenAI Solutions</b><br>
+🚀 <b>LLM Expertise (in progress)</b> · 🧠 <b>AI Agents</b> · 🤖 <b>GenAI Solutions</b><br>
 Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, <b>HuggingFace</b>, and more.
 </p>
 
