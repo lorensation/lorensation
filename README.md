@@ -18,8 +18,10 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
 
 💼 **Occupation:** AI Engineer  
 🎯 **Aspirations:** Become an Expert LLM & AI Agent Consultor  
-📚 **Learning:** RAG · LangGraph · MCP · HuggingFace · LangChain · NLP 
-💬 **Languages:** Python · JavaScript
+📚 **Learning:** RAG · LangGraph · MCP · HuggingFace · LangChain · NLP  
+
+💬 **Languages:** Python · JavaScript  
+
 🌍 **Based in:** Spain 🇪🇸
 
 ---
