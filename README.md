@@ -75,6 +75,7 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
 
 | 🚀 Project | 🧩 Description | 🧠 Tech Stack |
 |-------------|----------------|---------------|
+| [🔗 **OCR Model Benchmarking**](https://github.com/lorensation/ocr-benchmark-env) | A benchmarking environment to test multiple OCR models like DeepSeek-OCR, Qwen2-VL, VISTA-OCR... | Docker · HuggingFace · FastAPI |
 | [🔗 **AI Customer Support Agent**](https://github.com/lorensation/ai-customer-support-agent) | A customer support agent powered by RAG using OpenAI, LangChain and Supabase pgvector. | JavaScript · OpenAI API · LangChain · Supabase VectorDB · Intent Classification |
 | [🔗 **TextEmbedding + Small RAG Agent Demo**](https://github.com/lorensation/my-first-vector-db) | Web demo for text embeddings + Vector DB storing + Small RAG Agent | JavaScript · OpenAI API · LangChain · Supabase VectorDB |
 | [🔗 **ReAct Weather Agent**](https://github.com/lorensation/ai-weather-agent) | Web demo for a small ReAct Agent using location + weather | FastAPI (Python) · OpenAI API · ReAct Prompting · Weather API |
