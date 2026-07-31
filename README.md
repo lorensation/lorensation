@@ -6,7 +6,7 @@
 
 <p align="center">
 🚀 <b>LLMs</b> · 🧠 <b>AI Agents</b> · 🤖 <b>GenAI Solutions</b><br>
-Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, <b>HuggingFace</b>, and more.
+Currently working on solutions about <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, <b>HuggingFace</b>, and more.
 </p>
 
 ---
@@ -17,10 +17,9 @@ Currently exploring <b>RAG</b>, <b>MCP</b>, <b>LangGraph</b>, <b>LangChain</b>, 
 > Constantly learning, building, and pushing my own limits to stay ahead.”
 
 💼 **Occupation:** AI Engineer  
-🎯 **Aspirations:** Become an Expert LLM & AI Agent Consultor  
+🎯 **Aspirations:** Become an Expert LLM & AI Agent Solutions Engineer  
 📚 **Learning:** RAG · LangGraph · MCP · HuggingFace · LangChain · NLP  
 💬 **Languages:** Python · JavaScript  
-🌍 **Based in:** Spain 🇪🇸
 
 ---
 
